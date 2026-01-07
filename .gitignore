@@ -1,0 +1,10 @@
+# Web Development .gitignore
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+dist/
+build/
+.env
+.vscode/settings.json
