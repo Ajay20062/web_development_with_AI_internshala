@@ -1,0 +1,16 @@
+p{
+    color: red;
+    background-color: skyblue;
+}
+#abc{
+    color: blue;
+    background-color: yellow;
+}
+.xyz{
+    color: green;
+    background-color: pink;
+}
+p.xyz{
+    color: white;
+    background-color: black;
+}

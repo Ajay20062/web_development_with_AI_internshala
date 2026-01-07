@@ -1,0 +1,7 @@
+id Selectors
+    they are used to style only a single element of a particular type.
+    they are defined with a # followed by the id name.
+    Naming Convention: 
+        it can have alphanumeric characters or hyphen or underscore.
+        it cannot have special characters.
+        the name cannot start with a number.
