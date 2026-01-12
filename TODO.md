@@ -1,0 +1,6 @@
+- [ ] Move pages/index.html to root as index.html and adjust navigation links
+- [ ] Update navigation in pages/about.html to point to root index.html
+- [ ] Update navigation in pages/contact.html to point to root index.html
+- [ ] Update script src in pages/about.html and pages/contact.html to ../js/index.js
+- [ ] Delete pages/index.html after moving
+- [ ] Test the site by opening index.html
